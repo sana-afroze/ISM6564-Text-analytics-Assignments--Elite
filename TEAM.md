@@ -20,7 +20,7 @@ TASK 7, TASK 8 - Dylan Raab
 [Describe what Isabella implemented and which team members' work she reviewed. Include any challenges.]
 
 **Sana Afroze — Tasks 3 & 4**  
-[Describe what Sana implemented and which team members' work she reviewed. Include any challenges.]
+Task 3, 4 to be completed and to get it reviewed it by Jonathan James and to Review the work of Isabella Cuello.
 
 **Jonathan James — Tasks 5 & 6**  
 [Describe the question-set creation, improvement experiment, and held-out evaluation completed for Tasks 5 and 6. Identify which teammate's work Jonathan reviewed and note any challenges.]
