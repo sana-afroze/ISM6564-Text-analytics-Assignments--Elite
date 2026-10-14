@@ -1,0 +1,7 @@
+I used Claude (Opus 5.5) through claude.ai in three sessions. Session 1 helped me understand Tasks 1 and 2, prepare prompts, identify required repository files, and merge my contribution notes into Isabella-Cuello.md; Claude wrote the merged file. Session 2 provided code for chunk, chunk_semantic, and the threshold percentile cell, explained check results, and critiqued my Task 1 draft. Session 3 provided code for rrf and search, helped interpret results and investigate G09, and critiqued three Task 2 drafts.
+
+Some suggestions needed correction through testing. Claude initially recommended the 25th-percentile threshold, 0.21. However, it produced a fact-in-window score of 0.78 and two passages exceeding the encoder limit. After comparing 0.21, 0.33, and 0.47, I selected 0.47, which scored 0.96. Partial code-replacement instructions also led to an IndentationError and undefined-variable errors involving SHORTLIST and MIN_CHARS. Requesting complete cells resolved these issues, and the checks returned four PASS results.
+
+I verified changes by running the check cell, manually testing chunk on KB-001, and comparing thresholds, reranking settings, and K values. Temporary scratch cells checked percentiles, G09’s sixth-place ranking, and token counts; I deleted them afterward. K=7 reached 1.00 fact in window, while K=10 added tokens without improving coverage.
+
+Next time, I would request complete code cells and test recommendations before accepting them. These comparisons helped me distinguish plausible suggestions from choices supported by our results.
