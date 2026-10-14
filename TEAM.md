@@ -23,7 +23,7 @@ TASK 7, TASK 8 - Dylan Raab
 Task 3, 4 to be completed and to get it reviewed it by Jonathan James and to Review the work of Isabella Cuello.
 
 **Jonathan James — Tasks 5 & 6**  
-[Describe the question-set creation, improvement experiment, and held-out evaluation completed for Tasks 5 and 6. Identify which teammate's work Jonathan reviewed and note any challenges.]
+Completed 10 custom test questions, evaluated the RAG system's performance, and tested an improvement to order return-window calculations, which was ultimately rejected after identifying an unresolved issue. Completed the Task 6 held-out evaluation, comparing baseline and final designs to assess accuracy, safety, and limitations. Reviewed Tasks 3 and 4 completed by Sana Afroze, including their implementations and evaluation results, while Tasks 5 and 6 were reviewed by Dylan Raab.
 
 **Dylan Raab — Tasks 7 & 8**  
 [Describe what Dylan implemented and which team members' work he reviewed. Include any challenges.]
